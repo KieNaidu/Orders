@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "386476599136",
+    "project_id": "orders-b8cc0",
+    "storage_bucket": "orders-b8cc0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386476599136:android:77e6485e1c44f0f72f6005",
+        "android_client_info": {
+          "package_name": "com.kiellenaidu.orders"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386476599136-oqqftujj9k4mvenvgjs27d4oqsjv1upn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDntfwA3yUHvJT3MEC27VKO_n39SWznUUQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386476599136-oqqftujj9k4mvenvgjs27d4oqsjv1upn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
